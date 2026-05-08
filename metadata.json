@@ -1,0 +1,6 @@
+{
+  "name": "Zroorat Bridge",
+  "description": "A community platform connecting people in need with local volunteers and donors. Post needs for food, medicine, and essentials, or browse to help others in your area.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
